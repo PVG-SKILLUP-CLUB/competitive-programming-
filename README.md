@@ -1,1 +1,2 @@
-# competitive-programming-
+# competitive programming 
+Problems and their solution
