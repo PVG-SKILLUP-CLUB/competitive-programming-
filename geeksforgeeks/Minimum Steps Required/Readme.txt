@@ -22,5 +22,5 @@ Expected Space Complexity: O(1)
 
 Constraints:
 
-	1 <= str.length() <= 10^5
-  'a' <= str[i] <= 'b'  
+1 <= str.length() <= 10^5
+'a' <= str[i] <= 'b'  
