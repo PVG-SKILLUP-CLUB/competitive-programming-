@@ -28,14 +28,6 @@ class Solution:
 
         return res
 
-        
-
-
-
-
-
-
-
 #{ 
 
  # Driver Code Starts
@@ -48,44 +40,21 @@ if __name__=="__main__":
 
         
 
-        N = int(input())
-
-        
-
-        
+        N = int(input())        
 
         A = int(input())
-
         
+        B = int(input())               
 
+        C = int(input())        
         
-
-        B = int(input())
-
-        
-
-        
-
-        C = int(input())
-
-        
-
-        
-
         D = int(input())
-
         
 
         obj = Solution()
 
-        res = obj.bestNumbers(N, A, B, C, D)
+        res = obj.bestNumbers(N, A, B, C, D)        
 
-        
-
-        print(res)
-
-        
-
-
+        print(res)        
 
 # } Driver Code Ends
