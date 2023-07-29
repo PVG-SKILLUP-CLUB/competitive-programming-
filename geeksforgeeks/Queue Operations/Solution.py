@@ -1,7 +1,6 @@
 class Solution:
     
     def insert(self, q, k): 
-        #code here
         q.append(k)
         return q
         
